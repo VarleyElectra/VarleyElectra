@@ -19,11 +19,13 @@
 ---
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VarleyElectra&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VarleyElectra&show_icons=true&count_private=true&theme=tokyonight)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VarleyElectra&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VarleyElectra&theme=tokyo-night)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VarleyElectra&show_icons=true&count_private=true&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VarleyElectra&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VarleyElectra&theme=tokyo-night) 
 
 ![GitHub metrics](https://metrics.lecoq.io/VarleyElectra)  
 
