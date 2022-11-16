@@ -1,8 +1,5 @@
 <div id="container" align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VarleyElectra&repo=Vue-Front-Dev-Tools)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VarleyElectra&repo=connect-game)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi there 👋, my name is Alexander
 ![I'm Frontend Developer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 #### I'm Frontend Developer from Chelyabinsk, Russia🏙️
