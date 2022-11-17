@@ -29,8 +29,6 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VarleyElectra&theme=tokyo-night) 
 
-![GitHub metrics](https://metrics.lecoq.io/VarleyElectra)  
-
 ---
 ### :wheelchair: Code Practice :wheelchair:
 [![codewars](https://www.codewars.com/users/VarleyElectra/badges/large)](https://www.codewars.com/users/VarleyElectra)
