@@ -1,8 +1,9 @@
 <div id="container" align="center">
 
-### Hi there 👋, my name is Alexander
+### Hi there 👋, my name is Alex
 ![I'm Frontend Developer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 #### I'm Frontend Developer from Chelyabinsk, Russia🏙️
+#### My personal [website](https://varleyelectra.github.io/Personal-Page/) 
 
 </div>
 
