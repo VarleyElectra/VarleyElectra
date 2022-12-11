@@ -28,8 +28,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VarleyElectra&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VarleyElectra&theme=tokyo-night) 
-
 ---
 ### :wheelchair: Code Practice :wheelchair:
 [![codewars](https://www.codewars.com/users/VarleyElectra/badges/large)](https://www.codewars.com/users/VarleyElectra)
