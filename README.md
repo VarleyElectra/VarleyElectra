@@ -1,6 +1,7 @@
 <div id="container" align="center">
 
-### Hi there 👋, my name is Alex
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+👋,+my+name+is+Alex.)](https://git.io/typing-svg)
+
 ![I'm Frontend Developer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 #### I'm Frontend Developer from Chelyabinsk, Russia🏙️
 #### My personal [website](https://varleyelectra.github.io/Personal-Page/) 
